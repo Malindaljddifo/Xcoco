@@ -17,15 +17,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94764470310 '] //ur owner number
 global.ownername = "𝚙𝚊𝚋𝚊𝚜𝚊𝚛𝚊 𝚖𝚊𝚕𝚒𝚗𝚍𝚊 " //ur owner name
 global.ytname = "YT: 𝚙𝚊𝚋𝚊𝚜𝚊𝚛𝚊 𝚖𝚊𝚕𝚒𝚗𝚍𝚊 " //ur yt chanel name
-global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
+global.socialm = "GitHub: Mr-pabasara" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
 global.ownernomer = "94764470310" //ur number
 global.premium = ['94764470310 '] //ur premium number
-global.botname = 'Xcoco' //ur bot name
+global.botname = 'pabasara ' //ur bot name
 global.themeemoji = "♻️" //ur theme emoji
-global.packname = "Sticker By Xcoco" //ur sticker watermark packname
+global.packname = "pabasara" //ur sticker watermark packname
 global.author = "Xcoco" //ur sticker watermark author
 global.wm = "XCOCO BOT INC" //ur watermark
 
@@ -51,10 +51,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync(".https:/i.ibb.co/m4g08Rm/IMG-20230128-WA0061.jpg") //ur thumb pic
+global.log0 = fs.readFileSync(".https://i.ibb.co/m4g08Rm/IMG-20230128-WA0061.jpg") //ur logo pic
+global.err4r = fs.readFileSync(".https://i.ibb.co/DVv5K1w/IMG-20230128-WA0041.png") //ur error pic
+global.thumb = fs.readFileSync(".https://i.ibb.co/DVv5K1w/IMG-20230128-WA0041.png") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
